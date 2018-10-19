@@ -1,0 +1,6 @@
+**/config.yaml
+car-activity
+*.xlsx
+
+**/.idea
+**/.vscode
