@@ -1,0 +1,6 @@
+# Token from example api on car-online.ru. Place yours here
+api_token: 71442b58F1ccbaA6e406C4598d7E03
+file_to_save: car-online.xlsx
+date_from: 2017-01-02
+date_to: 2018-09-19
+timezone: Europe/Kiev
